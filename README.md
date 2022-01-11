@@ -5,4 +5,4 @@ Neste repositório irei compartilhar alguns tópicos de Estatística que podem s
 
 O repositório será atualizado constantemente. Por enquanto temos os seguintes guias:
 
-* [Introdução](link)
+* [Introdução](https://github.com/Wreef/EstatisticaDeDados/tree/main/Introdu%C3%A7%C3%A3o%20ao%20Google%20Colaboratory)
