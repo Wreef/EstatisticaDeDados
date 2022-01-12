@@ -12,4 +12,5 @@ O repositório será atualizado constantemente. Por enquanto temos os seguintes 
 * [Quartis e Percentis](https://github.com/Wreef/EstatisticaDeDados/tree/main/Quartis%20e%20Percentis) (Em desenvolvimento)
 * [Dispersão](https://github.com/Wreef/EstatisticaDeDados/tree/main/Dispers%C3%A3o) (Em desenvolvimento)
 * [Distribuição de Probabilidades](https://github.com/Wreef/EstatisticaDeDados/tree/main/Distribui%C3%A7%C3%A3o%20de%20Probabilidades) (Em desenvolvimento)
+
 Continua...
