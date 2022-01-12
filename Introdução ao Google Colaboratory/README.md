@@ -85,3 +85,10 @@ Ao rodar o código, seus dados estarão carregados e aparecerá uma breve visual
 <p align="center">
   <img src="https://i.ibb.co/2vP0G60/collab10.png" alt="1"/>
 </p>
+
+> Vale lembrar que seu arquivo de dados irá sumir após fechar o Google Colaboratory. Caso não queira ficar realizando upload sempre que for programar, coloque seus arquivos no Google Drive.
+
+## Conclusão
+Pronto! Agora é só programar!
+Esse guia irá exibiu somente o básico do Google Colaboratory. Os próximos guias serão focados em Estatística e farei uso do Google Colaboratory para programar.
+Até mais!
