@@ -91,5 +91,5 @@ Ao rodar o código, seus dados estarão carregados e aparecerá uma breve visual
 ## Conclusão
 Pronto! Agora é só programar!
 
-Esse guia exibiu somente o básico do Google Colaboratory. Os próximos guias serão focados em Estatística e farei uso do Google Colaboratory para programar.
+Esse guia exibiu somente o básico do Google Colaboratory. Os próximos guias serão focados em Estatística e aplicados no Google Colaboratory.
 Até mais!
