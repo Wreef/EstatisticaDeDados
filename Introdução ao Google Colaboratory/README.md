@@ -29,7 +29,7 @@ Agora iremos conhecer algumas funcionalidades dele.
 ## Abrindo Arquivo de Dados
 Para baixar o arquivo de dados [Clique Aqui](https://github.com/Wreef/EstatisticaDeDados/raw/main/Introdu%C3%A7%C3%A3o%20ao%20Google%20Colaboratory/dados.csv).
 
-Clique com o botão direito do mouse na tela e selecione "Salvar como", selecione uma paste e clique em "Salvar".
+Clique com o botão direito do mouse na tela e selecione "Salvar como". Escolha uma paste e clique em "Salvar".
 
 <p align="center">
   <img src="https://i.ibb.co/pxb6y87/collab4.png" alt="1"/>
