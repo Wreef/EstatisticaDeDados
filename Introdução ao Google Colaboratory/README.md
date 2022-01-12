@@ -25,3 +25,63 @@ Pronto! Esse é o Google Colaboratory.
 </p>
 
 Agora iremos conhecer algumas funcionalidades dele.
+
+## Abrindo Arquivo de Dados
+Para baixar o arquivo de dados [Clique Aqui](https://github.com/Wreef/EstatisticaDeDados/raw/main/Introdu%C3%A7%C3%A3o%20ao%20Google%20Colaboratory/dados.csv).
+
+Clique com o botao direito do mouse na tela e selecione "Salvar como", selecione uma paste e clique em "Salvar".
+
+<p align="center">
+  <img src="https://i.ibb.co/pxb6y87/collab4.png" alt="1"/>
+</p>
+
+No Google Colaboratory clique no ícone de pasta da imagem a seguir:
+
+<p align="center">
+  <img src="https://i.ibb.co/V350Y2Y/collab5.png" alt="1"/>
+</p>
+
+Arraste o arquivo dados.csv para a nova área que foi aberta. Clique em "Ok" na janela que irá aparecer.
+
+<p align="center">
+  <img src="https://i.ibb.co/Sc7xbsx/collab6.png" alt="1"/>
+</p>
+
+Após o upload digite "import pandas as pd" no campo (célula) que foi criado quando você abriu o Google Colaboratory.
+
+Após escrever aperte no botão "play" que fica do lado esquerdo do texto.
+
+<p align="center">
+  <img src="https://i.ibb.co/cYCmcwr/collab7.png" alt="1"/>
+</p>
+
+Esse código irá carregar a biblioteca Pandas. Essa bilioteca é utilizada para trabalhar com dados.
+
+Para mais detalhes: https://pandas.pydata.org/
+
+Clique em "+ Texto" para acrescentar uma célula de texto.
+
+<p align="center">
+  <img src="https://i.ibb.co/pw2PppX/collab8.png" alt="1"/>
+</p>
+
+> Nesse tipo de célula você pode digitar qualquer informação. Como a célula é somente de texto, seu código nao será afetado.
+
+Clique em "+ Código" para acrescentar uma célula de código.
+
+<p align="center">
+  <img src="https://i.ibb.co/KXDPL5R/collab9.png" alt="1"/>
+</p>
+
+Na célula de código digite:
+
+```cpp
+df = pd.read_csv('dados.csv')
+df
+```
+
+Ao rodar o código, seus dados estarão carregados e aparecerá uma breve visualização deles. Na saída do código serão exibidas as 5 primeiras e as 5 últimas linhas da planilha.
+
+<p align="center">
+  <img src="https://i.ibb.co/2vP0G60/collab10.png" alt="1"/>
+</p>
