@@ -65,7 +65,7 @@ Clique em "+ Texto" para acrescentar uma célula de texto.
   <img src="https://i.ibb.co/pw2PppX/collab8.png" alt="1"/>
 </p>
 
-> Nesse tipo de célula você pode digitar qualquer informação. Como a célula é somente de texto, seu código nao será afetado.
+> Nesse tipo de célula você pode digitar qualquer informação. Como a célula é somente de texto, seu código não será afetado.
 
 Clique em "+ Código" para acrescentar uma célula de código.
 
