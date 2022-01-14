@@ -20,5 +20,9 @@ Por enquanto temos os seguintes guias:
 * [Regressão Geométrica](https://github.com/Wreef/EstatisticaDeDados/tree/main/Regress%C3%A3o%20Geom%C3%A9trica)
 * [Regressão Exponencial](https://github.com/Wreef/EstatisticaDeDados/tree/main/Regress%C3%A3o%20Exponencial)
 * [Regressão Logarítmica](https://github.com/Wreef/EstatisticaDeDados/tree/main/Regress%C3%A3o%20Logar%C3%ADtmica) (Em desenvolvimento)
+...
+* [Clusterização: K-means](https://github.com/Wreef/EstatisticaDeDados/tree/main/Clusteriza%C3%A7%C3%A3o:%20K-means) (Em desenvolvimento)
+* [Clusterização: hierárquico](https://github.com/Wreef/EstatisticaDeDados/tree/main/Clusteriza%C3%A7%C3%A3o:%20hier%C3%A1rquico) (Em desenvolvimento)
+* [Clusterização: DBSCAN](https://github.com/Wreef/EstatisticaDeDados/tree/main/Clusteriza%C3%A7%C3%A3o:%20DBSCAN) (Em desenvolvimento)
 
 Continua...
