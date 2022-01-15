@@ -19,7 +19,7 @@ Por enquanto temos os seguintes guias:
 
 ## Tópico 2:
 
-* [Regressão Linear](https://github.com/Wreef/EstatisticaDeDados/tree/main/Regress%C3%A3o%20Linear) (Em desenvolvimento)
+* [Regressão Linear](https://github.com/Wreef/EstatisticaDeDados/tree/main/Regress%C3%A3o%20Linear)
 * [Regressão Polinomial](https://github.com/Wreef/EstatisticaDeDados/tree/main/Regress%C3%A3o%20Polinomial)
 * [Regressão Geométrica](https://github.com/Wreef/EstatisticaDeDados/tree/main/Regress%C3%A3o%20Geom%C3%A9trica)
 * [Regressão Exponencial](https://github.com/Wreef/EstatisticaDeDados/tree/main/Regress%C3%A3o%20Exponencial)
