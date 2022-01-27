@@ -7,7 +7,7 @@ O repositório será atualizado constantemente.
 
 Por enquanto temos os seguintes guias:
 
-## Tópico 1:
+## Estatística:
 
 * [Introdução ao Google Colaboratory](https://github.com/Wreef/EstatisticaDeDados/tree/main/Introdu%C3%A7%C3%A3o%20ao%20Google%20Colaboratory)
 * [Tipos de Dados](https://github.com/Wreef/EstatisticaDeDados/tree/main/Tipos%20de%20Dados)
@@ -22,7 +22,11 @@ Por enquanto temos os seguintes guias:
 * Testes Paramétricos (Em desenvolvimento)
 * Testes Não Paramétricos (Em desenvolvimento)
 
-## Tópico 2:
+## Ciência de Dados:
+
+* [Manipulação de Datas](https://github.com/Wreef/EstatisticaDeDados/tree/main/Regress%C3%A3o%20Linear)
+
+## Regressão:
 
 * [Regressão Linear](https://github.com/Wreef/EstatisticaDeDados/tree/main/Regress%C3%A3o%20Linear)
 * [Regressão Polinomial](https://github.com/Wreef/EstatisticaDeDados/tree/main/Regress%C3%A3o%20Polinomial)
@@ -30,7 +34,7 @@ Por enquanto temos os seguintes guias:
 * [Regressão Exponencial](https://github.com/Wreef/EstatisticaDeDados/tree/main/Regress%C3%A3o%20Exponencial)
 * [Regressão Logarítmica](https://github.com/Wreef/EstatisticaDeDados/tree/main/Regress%C3%A3o%20Logar%C3%ADtmica)
 
-## Tópico 3:
+## Clusterização:
 
 * [Clusterização: K-means](https://github.com/Wreef/EstatisticaDeDados/tree/main/Clusteriza%C3%A7%C3%A3o:%20K-means) (Em desenvolvimento)
 * [Clusterização: hierárquico](https://github.com/Wreef/EstatisticaDeDados/tree/main/Clusteriza%C3%A7%C3%A3o:%20hier%C3%A1rquico) (Em desenvolvimento)
