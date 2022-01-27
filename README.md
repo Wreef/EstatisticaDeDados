@@ -24,7 +24,7 @@ Por enquanto temos os seguintes guias:
 
 ## Ciência de Dados:
 
-* [Manipulação de Datas](https://github.com/Wreef/EstatisticaDeDados/tree/main/Regress%C3%A3o%20Linear)
+* [Manipulação de Datas](https://github.com/Wreef/EstatisticaDeDados/tree/main/Manipula%C3%A7%C3%A3o%20de%20Datas)
 
 ## Regressão:
 
