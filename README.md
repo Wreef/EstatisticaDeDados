@@ -11,7 +11,7 @@ Por enquanto temos os seguintes guias:
 
 * [Introdução ao Google Colaboratory](https://github.com/Wreef/EstatisticaDeDados/tree/main/Introdu%C3%A7%C3%A3o%20ao%20Google%20Colaboratory)
 * [Tipos de Dados](https://github.com/Wreef/EstatisticaDeDados/tree/main/Tipos%20de%20Dados)
-* [Frequência](https://github.com/Wreef/EstatisticaDeDados/tree/main/Frequ%C3%AAncia) (Em desenvolvimento)
+* [Frequência](https://github.com/Wreef/EstatisticaDeDados/tree/main/Frequ%C3%AAncia)
 * [Tendência](https://github.com/Wreef/EstatisticaDeDados/tree/main/Tend%C3%AAncia) (Em desenvolvimento)
 * [Quartis e Percentis](https://github.com/Wreef/EstatisticaDeDados/tree/main/Quartis%20e%20Percentis) (Em desenvolvimento)
 * [Dispersão](https://github.com/Wreef/EstatisticaDeDados/tree/main/Dispers%C3%A3o) (Em desenvolvimento)
