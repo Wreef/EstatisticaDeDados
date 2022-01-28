@@ -13,7 +13,7 @@ Por enquanto temos os seguintes guias:
 * [Tipos de Dados](https://github.com/Wreef/EstatisticaDeDados/tree/main/Tipos%20de%20Dados)
 * [Frequência](https://github.com/Wreef/EstatisticaDeDados/tree/main/Frequ%C3%AAncia)
 * [Tendência](https://github.com/Wreef/EstatisticaDeDados/tree/main/Tend%C3%AAncia)
-* [Quartis e Percentis](https://github.com/Wreef/EstatisticaDeDados/tree/main/Quartis%20e%20Percentis) (Em desenvolvimento)
+* [Quartis e Percentis](https://github.com/Wreef/EstatisticaDeDados/tree/main/Quartis%20e%20Percentis)
 * [Dispersão](https://github.com/Wreef/EstatisticaDeDados/tree/main/Dispers%C3%A3o) (Em desenvolvimento)
 * [Distribuição de Probabilidades](https://github.com/Wreef/EstatisticaDeDados/tree/main/Distribui%C3%A7%C3%A3o%20de%20Probabilidades) (Em desenvolvimento)
 * População e Amostra (Em desenvolvimento)
